@@ -1,3 +1,5 @@
+https://play.google.com/store/apps/details?id=ru.suleymanovtat.gallery
+
 Задание
 
 Необходимо создать приложение для Android на языке Java или Kotlin, обладающее следующей минимальной функциональностью:
