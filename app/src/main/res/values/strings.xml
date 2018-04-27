@@ -4,4 +4,20 @@
     <string name="full_image">full_image</string>
     <string name="error_message_no_loading_image">\nНе удалось загрузить изображение.\nПроверьте подключение к сети.</string>
     <string name="error_message_no_data">\nНе удалось загрузить список изображение.\nПроверьте подключение к сети.</string>
+    <string name="no_internet_connection">Возможно нет подключения к Интернету</string>
+    <string name="invalid_request">Неверный запрос, возможно введены неправильные данные или Вам нужно обновить приложение</string>
+    <string name="no_auth">Для этого действия требуется авторизация, если Вы уже авторизованы, пожалуйста, переустановите приложение и войдите снова</string>
+    <string name="auth_error">Вы пытаетесь подключить аккаунт социальной сети, который уже подключен другим пользователем сервиса</string>
+    <string name="not_found">Объект не найден</string>
+    <string name="timeout">Таймаут запроса, возможно выполняются технические работы</string>
+    <string name="error_servire">Возможно выполняются технические работы на сервере</string>
+    <string name="no_implemented">Эта функция возможно еще не реализована</string>
+    <string name="invalid_gateway">Неверный шлюз, возможно выполняются технические работы</string>
+    <string name="service_temporarily_unavailable">Сервис временно недоступен</string>
+    <string name="gateway_timeout">Таймаут шлюза, по техническим причинам сервер не отвечает</string>
+    <string name="network_unavailable">Сеть недоступна</string>
+    <string name="error_occurred">Произошла ошибка</string>
+    <string name="error_data_from_server">Произошла ошибка при получении данных с сервера</string>
+    <string name="check_your_network_connection">Проверьте подключение к сети</string>
+    <string name="error">Ошибка</string>
 </resources>

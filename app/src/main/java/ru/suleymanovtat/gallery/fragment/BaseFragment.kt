@@ -11,6 +11,7 @@ import android.view.ViewGroup
 import com.google.gson.JsonSyntaxException
 import com.google.gson.stream.MalformedJsonException
 import retrofit2.HttpException
+import ru.suleymanovtat.gallery.R
 import java.io.IOException
 import java.net.ConnectException
 import java.net.SocketException
@@ -29,36 +30,36 @@ abstract class BaseFragment : Fragment() {
     fun checkError(context: Context, t: Throwable): String {
         if (t is HttpException) {
             val code = t.code()
-            var messageError = "Возможно нет подключения к Интернету"
+            var messageError = getString(R.string.no_internet_connection)
             when (code) {
-                400 -> messageError = "Неверный запрос, возможно введены неправильные данные или Вам нужно обновить приложение"
-                401 -> messageError = "Для этого действия требуется авторизация, если Вы уже авторизованы, пожалуйста, переустановите приложение и войдите снова"
-                403 -> messageError = "Вы пытаетесь подключить аккаунт социальной сети, который уже подключен другим пользователем сервиса"
-                404 -> messageError = "Объект не найден"
-                408 -> messageError = "Таймаут запроса, возможно выполняются технические работы"
-                500 -> messageError = "Возможно выполняются технические работы на сервере"
-                501 -> messageError = "Эта функция возможно еще не реализована"
-                502 -> messageError = "Неверный шлюз, возможно выполняются технические работы"
-                503 -> messageError = "Сервис временно недоступен"
-                504 -> messageError = "Таймаут шлюза, по техническим причинам сервер не отвечает"
+                400 -> messageError = getString(R.string.invalid_request)
+                401 -> messageError = getString(R.string.no_auth)
+                403 -> messageError = getString(R.string.auth_error)
+                404 -> messageError = getString(R.string.not_found)
+                408 -> messageError = getString(R.string.timeout)
+                500 -> messageError = getString(R.string.error_servire)
+                501 -> messageError = getString(R.string.no_implemented)
+                502 -> messageError = getString(R.string.invalid_gateway)
+                503 -> messageError = getString(R.string.service_temporarily_unavailable)
+                504 -> messageError = getString(R.string.gateway_timeout)
             }
             return messageError
         }
         if (t is SocketTimeoutException) {
             if (!isNetworkAvailable() || t is UnknownHostException || t is ConnectException) {
-                return "Сеть недоступна"
+                return getString(R.string.network_unavailable)
             }
         }
         if (t is NullPointerException) {
-            return "Произошла ошибка"
+            return getString(R.string.error_occurred)
         }
         if (t is JsonSyntaxException) {
-            return "Произошла ошибка при получении данных с сервера"
+            return getString(R.string.error_data_from_server)
         }
         if (t is SSLHandshakeException || t is MalformedJsonException || t is IOException || t is SocketException) {
-            return "Проверьте подключение к сети"
+            return getString(R.string.check_your_network_connection)
         }
-        return "Ошибка"
+        return getString(R.string.error)
     }
 
     fun isNetworkAvailable(): Boolean {
