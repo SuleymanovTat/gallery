@@ -1,0 +1,387 @@
+{
+  "project_info": {
+    "project_number": "551014106184",
+    "firebase_url": "https://taxiall-228be.firebaseio.com",
+    "project_id": "taxiall-228be",
+    "storage_bucket": "taxiall-228be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:d80e30fd068fb592",
+        "android_client_info": {
+          "package_name": "com.your.hero.evolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-9nvc2e6cn6nmq5r0m81e382nc7fgd6qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.your.hero.evolution",
+            "certificate_hash": "dd3bc9c6f2f4e5a590d0486486d1f0022615b930"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:ec31138e45864ded",
+        "android_client_info": {
+          "package_name": "money.funpay.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-dof3op8263nrptiurnnetdrhjao2hjfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "money.funpay.client",
+            "certificate_hash": "492939d1171970b79031b807d2974721d041a7f4"
+          }
+        },
+        {
+          "client_id": "551014106184-c28qsh3rg7h5qdhq05vehb3j2n8p9vpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "money.funpay.client",
+            "certificate_hash": "629145004954eec3995c897e414e78b0e2f6348c"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:93eb94a30b34f632",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-81no855dkuqmv23e2ct4h8sasqt73qb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.fooddelivery",
+            "certificate_hash": "629145004954eec3995c897e414e78b0e2f6348c"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:5c04307b85877472",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-rlrm3ds0j6a9avl4nf3krmdnue4liihb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.gallery",
+            "certificate_hash": "629145004954eec3995c897e414e78b0e2f6348c"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:cd2e7465074244bd",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.moneytrackerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-h67lto37dmkea444rir0r6ho14ekti0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.moneytrackerfirebase",
+            "certificate_hash": "b9ac25c26687545b40e78958b62bd63b85e2317f"
+          }
+        },
+        {
+          "client_id": "551014106184-19f1t2bo3nptppte8vske60l1stev05k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.moneytrackerfirebase",
+            "certificate_hash": "fb711bebd0817aab833a1d8fe4a1aa286efda39f"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:c380e5982bbe8389",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.pressapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-ns8qbjk4vlcrg6uvt99ohn6fm2je3g86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.pressapplication",
+            "certificate_hash": "629145004954eec3995c897e414e78b0e2f6348c"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:13fe886d5a86a1eb",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.settlements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-ihp3ho4f4mqsk84lkk13kqqudpolvb0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.settlements",
+            "certificate_hash": "47e7704934cab2d762b1557a980e979448687f38"
+          }
+        },
+        {
+          "client_id": "551014106184-dm6aggac8av6r8et0cp6fglu4h01b4ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.settlements",
+            "certificate_hash": "629145004954eec3995c897e414e78b0e2f6348c"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551014106184:android:c246f17a55bf77a4",
+        "android_client_info": {
+          "package_name": "ru.suleymanovtat.transportation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551014106184-nl20de1eha0anqnm00hdk8tdsij080m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.suleymanovtat.transportation",
+            "certificate_hash": "13fcc220afca24fbb9da561b1d680ce464bd8908"
+          }
+        },
+        {
+          "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJtyqqNt5mVMB6JX5P2adh51DJspvmCnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551014106184-pgvibvviolnuufvmrakrqcb9u5la709m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

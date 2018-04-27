@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Галерея</string>
+    <string name="image_item">image_item</string>
+    <string name="full_image">full_image</string>
+    <string name="error_message_no_loading_image">\nНе удалось загрузить изображение.\nПроверьте подключение к сети.</string>
+    <string name="error_message_no_data">\nНе удалось загрузить список изображение.\nПроверьте подключение к сети.</string>
+</resources>
